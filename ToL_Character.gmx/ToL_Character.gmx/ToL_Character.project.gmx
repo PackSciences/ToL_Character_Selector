@@ -13,13 +13,11 @@
     <sprite>sprites\spr_Judas</sprite>
     <sprite>sprites\spr_Maggie</sprite>
     <sprite>sprites\spr_cross</sprite>
-    <sprite>sprites\spr_D6</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_init.gml</script>
-    <script>scripts\scr_randomize.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_char_1</object>
@@ -28,7 +26,6 @@
     <object>objects\obj_cross_1</object>
     <object>objects\obj_cross_2</object>
     <object>objects\obj_cross_3</object>
-    <object>objects\obj_randomize</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main</room>

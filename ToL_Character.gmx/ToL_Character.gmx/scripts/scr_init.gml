@@ -4,6 +4,3 @@ global.char3 = "BlueBaby";
 global.char1_done = false;
 global.char2_done = false;
 global.char3_done = false;
-global.char1_number = 1;
-global.char2_number = 1;
-global.char3_number = 1;
