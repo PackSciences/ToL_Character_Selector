@@ -1,4 +1,4 @@
-randomize();
+/*randomize();
 global.randomized = false;
 while (global.char1_number = global.char2_number || global.char1_number = global.char3_number || global.char3_number = global.char2_number || global.randomized = false)
 {
@@ -38,3 +38,4 @@ switch global.char1_number
  case 5: global.char3 = "Maggie" ; break;
  default: ;
  }
+ */

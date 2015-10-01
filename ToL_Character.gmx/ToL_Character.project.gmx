@@ -25,9 +25,13 @@
     <object>objects\obj_char_1</object>
     <object>objects\obj_char_2</object>
     <object>objects\obj_char_3</object>
+    <object>objects\obj_char_4</object>
+    <object>objects\obj_char_5</object>
     <object>objects\obj_cross_1</object>
     <object>objects\obj_cross_2</object>
     <object>objects\obj_cross_3</object>
+    <object>objects\obj_cross_4</object>
+    <object>objects\obj_cross_5</object>
     <object>objects\obj_randomize</object>
   </objects>
   <rooms name="rooms">

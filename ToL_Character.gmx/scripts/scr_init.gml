@@ -1,9 +1,15 @@
 global.char1 = "BlueBaby";
 global.char2 = "BlueBaby";
 global.char3 = "BlueBaby";
+global.char4 = "BlueBaby";
+global.char5 = "BlueBaby";
 global.char1_done = false;
 global.char2_done = false;
 global.char3_done = false;
+global.char4_done = false;
+global.char5_done = false;
 global.char1_number = 1;
 global.char2_number = 1;
 global.char3_number = 1;
+global.char4_number = 1;
+global.char5_number = 1;
